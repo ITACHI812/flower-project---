@@ -21,28 +21,19 @@ The notebook builds and trains a Convolutional Neural Network (CNN) using **Tens
 - Matplotlib
 - NumPy
 
-## 📷 Sample Output
 
-> *(Optional)* You can add sample prediction images here once you upload them to a folder like `/images/`  
-> For example:  
-> ![sample](images/sample_output.png)
 
-## 📁 Project Files
 
 | File | Description |
 |------|-------------|
 | `project.ipynb` | Jupyter notebook containing the entire model code and training steps |
 
-## 📌 To Do (Optional)
-- [ ] Add more classes or custom dataset
-- [ ] Save and export the trained model
-- [ ] Deploy model using Streamlit or Flask
-- [ ] Improve accuracy with data augmentation
+
 
 ## 📬 Contact
 
-Created by [Your Name] — feel free to reach out!  
-📧 Email: *youremail@example.com*  
+Created by [K.Surya Prakash] — feel free to reach out!  
+📧 Email: *suryakancharala143@gmail.com*  
 🔗 GitHub: [@ITACHI812](https://github.com/ITACHI812)
 
 ---
